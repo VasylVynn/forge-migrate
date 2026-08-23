@@ -17,7 +17,7 @@ for key, c in contacts.items():
     if not a: continue
     m = maps.get(key)
     byv[a['vendor']].append({'key': key, 'name': a['name'], 'installs': a.get('installs') or 0, 'release': a.get('release_date'), 'email': c.get('email'), 'tier': c.get('tier'), 'website': c.get('website'),
-        'map_url': f"{CFG['url']}/apps/{slug(a)}/", 'n_modules': m['module_count'] if m else None,
+        'map_url': f"{CFG['url']}/apps/{slug(a)}/", 'n_modules': (sum(r['count'] for r in m['modules']) if m else None),
         'n_direct': sum(r['count'] for r in m['modules'] if r['status']=='direct') if m else None,
         'n_partial': sum(r['count'] for r in m['modules'] if r['status'] in ('partial','preview')) if m else None,
         'n_none': sum(r['count'] for r in m['modules'] if r['status']=='none') if m else None,
