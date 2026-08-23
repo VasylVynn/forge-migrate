@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vasylvynn.github.io/forge-migrate/sitemap.xml

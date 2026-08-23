@@ -1,0 +1,7 @@
+data/descriptors.jsonl
+data/descriptors.log
+data/maps_md/
+site/templates/*.bak
+.DS_Store
+__pycache__/
+*.log

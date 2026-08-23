@@ -1,0 +1,73 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ForgeMigrate — Connect → Forge migration for Atlassian Marketplace apps</title><meta name="description" content="Fixed-price Atlassian Connect to Forge migration. Keep your installs and reviews, unblock updates, qualify for 0% revenue share. Before 31 Jan 2027."><link rel="canonical" href="https://vasylvynn.github.io/forge-migrate/">
+<link rel="stylesheet" href="/forge-migrate/style.css"><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+</head><body><header class="top"><a class="brand" href="/forge-migrate/">ForgeMigrate</a><nav><a href="/forge-migrate/radar/">Connect Radar</a><a href="/forge-migrate/#pricing">Pricing</a><a href="/forge-migrate/private-apps/">Private apps</a><a class="cta" href="/forge-migrate/#contact">Get a migration map</a></nav></header>
+<main><section class="hero">
+  <div>
+    <p class="eyebrow" style="margin-top:0">Atlassian Connect ends 31 Jan 2027 · 161 days</p>
+    <h1>Your Connect app can't ship updates. We move it to Forge at a fixed price.</h1>
+    <p class="lead">Same app key. Installs, reviews and licenses preserved. A Connect-on-Forge wrap in 3 business days — or a native Forge rewrite that qualifies for <i>Runs on Atlassian</i> and keeps 100% of your revenue.</p>
+    <div class="cta-row"><a class="btn" href="#contact">Get a free migration map</a><a class="btn ghost" href="/forge-migrate/radar/">See the 1,482 apps still on Connect</a></div>
+    <p class="small">Free map, emailed within 24 hours, built from your public descriptor. No call required.</p>
+  </div>
+  <div class="xform" aria-label="Connect descriptor transformed into a Forge manifest">
+    <div><div class="lbl">atlassian-connect.json</div><pre><span class="ln" style="--i:0">{</span><span class="ln" style="--i:1">  "key": <em>"com.acme.reminders"</em>,</span><span class="ln" style="--i:2">  "baseUrl": <em>"https://app.acme.io"</em>,</span><span class="ln" style="--i:3">  "modules": {</span><span class="ln" style="--i:4">    <b>"webPanels"</b>: [{ "location":</span><span class="ln" style="--i:5">      <em>"atl.jira.view.issue.right.context"</em> }],</span><span class="ln" style="--i:6">    <b>"webhooks"</b>: [{ "event": <em>"jira:issue_updated"</em> }],</span><span class="ln" style="--i:7">    <b>"adminPages"</b>: [{ "key": <em>"settings"</em> }],</span><span class="ln" style="--i:8">    <b>"jiraIssueFields"</b>: [{ "key": <em>"due-soon"</em> }]</span><span class="ln" style="--i:9">  }</span><span class="ln" style="--i:10">}</span></pre></div>
+    <div class="arrow" aria-hidden="true">→</div>
+    <div><div class="lbl">manifest.yml</div><pre><span class="ln" style="--i:4"><i>app:</i></span><span class="ln" style="--i:5">  connect: { key: <em>com.acme.reminders</em> }</span><span class="ln" style="--i:6"><i>modules:</i></span><span class="ln" style="--i:7">  <b>jira:issueGlance</b>:   # ← webPanels</span><span class="ln" style="--i:8">    - key: due-soon-glance</span><span class="ln" style="--i:9">  <b>trigger</b>:            # ← webhooks</span><span class="ln" style="--i:10">    - events: [<em>avi:jira:updated:issue</em>]</span><span class="ln" style="--i:11">  <b>jira:adminPage</b>:     # ← adminPages</span><span class="ln" style="--i:12">    - key: settings</span><span class="ln" style="--i:13">  <b>jira:customField</b>:   # ← jiraIssueFields ⚠ data</span><span class="ln" style="--i:14">    - key: due-soon</span></pre></div>
+  </div>
+</section>
+
+<p class="eyebrow">The situation, with dates</p>
+<div class="facts">
+  <div class="fact"><b>31 Mar 2026</b><span>Connect apps stopped being able to publish updates. 418 apps shipped a last release that month; none since.</span><br><span class="src">Marketplace API, Aug 2026</span></div>
+  <div class="fact"><b>28 May 2026</b><span>Admins see a warning banner on <i>Connected apps</i> for every app still using Connect modules.</span><br><span class="src">developer.atlassian.com</span></div>
+  <div class="fact"><b>1 Oct 2026</b><span>Connect revenue share rises to 25%. Native Forge apps pay 0% up to $1M lifetime.</span><br><span class="src">Atlassian rev-share update</span></div>
+  <div class="fact"><b>31 Jan 2027</b><span>Connect end of support. After that, only critical security fixes from Atlassian.</span><br><span class="src">Announcement, 3 Aug 2026</span></div>
+</div>
+
+<h2 id="pricing">Three ways to buy, all fixed price</h2>
+<p class="lead">Pick by what your app needs. Every option keeps your app key, so existing installs and reviews carry over as a new version of your listing.</p>
+<div class="tablewrap"><table class="offers">
+<thead><tr><th></th><th>Forge Wrap</th><th>Forge Native</th><th>Unblock</th></tr></thead>
+<tbody>
+<tr><td>What it is</td><td>Connect-on-Forge: your modules and backend stay, wrapped in a Forge manifest with a remote. Unblocks updates.</td><td>Full rewrite on Forge: UI Kit or Custom UI, Forge storage, product events. No remote.</td><td>One specific blocker fixed: clientKey→cloudId mapping, 25s timeouts, macro performance, OAuth popups, FIT auth.</td></tr>
+<tr><td>Best for</td><td>Apps that need to ship a fix now, or have a backend that must stay external.</td><td>Paid apps: 0% revenue share, <i>Runs on Atlassian</i> badge, enterprise security reviews.</td><td>Teams mid-migration that are stuck.</td></tr>
+<tr><td>Turnaround</td><td>3 business days</td><td>2–4 weeks for up to 8 modules</td><td>2–3 business days</td></tr>
+<tr><td>Price</td><td class="price">$1,200</td><td class="price">from $4,900</td><td class="price">$590</td></tr>
+<tr><td>Includes</td><td>Manifest, remote config, migration-intent banner, test install on a dev site, Marketplace version submission, 30 days of fixes.</td><td>Module-by-module port, data migration for macros/gadgets/permissions, ROA eligibility check, listing submission, 60 days of fixes.</td><td>Root cause, fix, test, write-up.</td></tr>
+<tr><td>Payment</td><td>On delivery</td><td>50% to start, 50% when Atlassian approves the version</td><td>On delivery</td></tr>
+</tbody></table></div>
+<p class="small">Native pricing: $4,900 up to 3 modules · $9,900 up to 8 · quoted above that. Portfolio of 3+ apps: 25% off. Prices in USD, invoice with bank transfer or Wise.</p>
+
+<h2>How it works</h2>
+<ol class="steps">
+<li><b>Migration map</b>We read your public Connect descriptor and return a module-by-module map: Forge equivalent, status, data-retention risk, effort. Free, within 24 hours.</li>
+<li><b>Fixed quote</b>You pick Wrap or Native. You get a one-page scope with the price above, a delivery date and what we need from you (repo access or a zip, a dev site).</li>
+<li><b>Build on a dev site</b>We migrate on an Atlassian dev site you can log into, with a changelog per module. You test with your own data.</li>
+<li><b>Ship under your listing</b>You publish the Forge version from your own developer console; installs update automatically over ~10 days. We stay on for fixes.</li>
+</ol>
+
+<h2>What stays yours</h2>
+<p class="lead">Everything. Source code, Marketplace listing, customer relationship, Forge app ownership — all in your developer account from day one. We work in a repo you own, under NDA if you want one. We never hold your app hostage.</p>
+
+<h2>Why a studio, not your own team</h2>
+<p class="lead">Atlassian's own guidance for speeding up Connect-to-Forge migration is Claude Code plus the Forge MCP. That is exactly our conveyor: every migration runs through the same tested scripts, module mapping and checklists, so a 3-module app is days, not weeks — and your engineers keep shipping features.</p>
+
+<h2 id="faq">Questions vendors ask</h2>
+<div class="faq">
+<details><summary>Can't I just run Atlassian's connect-to-forge codemod myself?</summary><p>Yes, and for the wrapper that is where we start too. What the codemod does not do: test each module on a dev site, configure the remote and FIT auth, add the migration-intent banner, handle unlicensedAccess, and get the version through Marketplace review. That is the $1,200. The native rewrite is not automated by anyone.</p></details>
+<details><summary>Do my customers have to reinstall?</summary><p>No. A Forge app that declares your Connect key is released as a new version of the same listing. Installs, reviews and licenses carry over; updates roll out automatically in batches over up to 10 days.</p></details>
+<details><summary>What can't be migrated?</summary><p>Jira issue field values are not retained on migration (fields are re-created; values need a migration script). Confluence macros can't render in the legacy editor. Some web item locations, Jira reports, blueprints and JSM reports have no Forge equivalent yet and get rebuilt as pages. Your map lists every one of these before you pay anything.</p></details>
+<details><summary>My backend has a database. Does it have to move?</summary><p>Not for the wrap: it stays as a Forge Remote. For native, we move state to Forge Storage or Forge SQL where that makes sense; if a remote must stay, you keep everything else but won't qualify for Runs on Atlassian.</p></details>
+<details><summary>Who am I working with?</summary><p>An independent engineer (Ukraine/EU) who has spent 2026 automating Connect-to-Forge migrations with Claude Code, plus a small bench for frontend work. You will talk to the person doing the work. References and a sample migration are in our <a href="https://github.com/VasylVynn">GitHub</a>.</p></details>
+<details><summary>What if Atlassian moves the deadline again?</summary><p>They already did once (December 2026 → 31 January 2027). The update freeze since March 2026 and the admin banners are live today regardless of the date, and the 25% revenue share starts 1 October 2026.</p></details>
+</div>
+
+<section class="contact" id="contact">
+<h2>Get your free migration map</h2>
+<p>Email the name of your app (or its Marketplace link). You get the module-by-module map within 24 hours, with both prices. No call needed.</p>
+<p><a class="btn" href="mailto:hello@example.com?subject=Migration%20map%20for%20my%20Connect%20app">Email hello@example.com</a></p>
+<p class="small">Prefer to look first? Find your app on the <a href="/forge-migrate/radar/">Connect Radar</a>.</p>
+</section>
+</main>
+<footer><p>ForgeMigrate · Independent Atlassian Forge migration studio · Not affiliated with Atlassian. Data from the public Atlassian Marketplace API, refreshed 2026-08-23.</p><p><a href="mailto:hello@example.com">hello@example.com</a> · <a href="https://github.com/VasylVynn/forge-migrate">GitHub</a></p></footer></body></html>
