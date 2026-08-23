@@ -23,7 +23,11 @@ for key, c in contacts.items():
         'n_none': sum(r['count'] for r in m['modules'] if r['status']=='none') if m else None,
         'wrap_price': m['wrap_price'] if m else None, 'native_price': m['native_price'] if m else None, 'top_warning': (m['warnings'].split(' · ')[0] if m and m['warnings'] else 'Connect-on-Forge keeps your remote but stays on the 25% Connect revenue share; only native Forge modules qualify for 0%.')})
 rows = []
+SKIP = {'Apps+'}
+NO_COLD = ('.de', '.at', '.pl')  # UWG/GDPR: no cold email, use LinkedIn/community
+KNOWN_DE = {'Seibert', 'Aura Apps (Seibert - appanvil)', 'Actonic', 'catworkx', 'resolution', 'CraftCoders', 'KontextWork', 'APTIS', 'Ease Solutions', 'MOEWE', 'UGUBI', 'Softlist', 'weweave'}
 for vendor, lst in byv.items():
+    if vendor in SKIP or any(k.lower() in (vendor or '').lower() for k in ('apps+', 'seibert')): continue
     lst.sort(key=lambda x: -x['installs'])
     emails = [x['email'] for x in lst if x['email']]
     tier = next((x['tier'] for x in lst if x['tier']), None)
@@ -31,12 +35,18 @@ for vendor, lst in byv.items():
     inst = sum(x['installs'] for x in lst)
     # priority: small vendors first (no tier / silver), alive, installs
     score = (0 if tier in (None, 'SILVER') else 1, 0 if alive else 1, -inst)
-    rows.append({'vendor': vendor, 'email': emails[0] if emails else '', 'tier': tier or '', 'alive': alive, 'apps': len(lst), 'installs': inst, 'top_app': lst[0]['name'], 'maps': ' | '.join(x['map_url'] for x in lst[:4]), 'wave': '', '_apps': lst, '_score': score})
+    email = emails[0] if emails else ''
+    dom = email.split('@')[-1] if email else ''
+    website = next((x['website'] for x in lst if x.get('website')), '') or ''
+    no_cold = any((dom.endswith(t) or (website and re.search(r'\.' + t.lstrip('.') + r'(/|$)', website))) for t in NO_COLD) or vendor in KNOWN_DE
+    service_desk = dom.endswith('atlassian.net')
+    connect_bound = all(True for x in lst)  # placeholder, refined below
+    rows.append({'vendor': vendor, 'email': email, 'tier': tier or '', 'alive': alive, 'apps': len(lst), 'installs': inst, 'top_app': lst[0]['name'], 'no_cold_email': no_cold, 'needs_founder_enrichment': service_desk, 'maps': ' | '.join(x['map_url'] for x in lst[:4]), 'wave': '', '_apps': lst, '_score': score})
 rows.sort(key=lambda r: r['_score'])
 for i, r in enumerate(rows): r['wave'] = 1 if i < 40 else (2 if i < 80 else 3)
 os.makedirs(PRIV, exist_ok=True)
 with open(os.path.join(PRIV, 'outreach_list.csv'), 'w', newline='') as f:
-    w = csv.DictWriter(f, fieldnames=['wave', 'vendor', 'email', 'tier', 'alive', 'apps', 'installs', 'top_app', 'maps']); w.writeheader()
+    w = csv.DictWriter(f, fieldnames=['wave', 'vendor', 'email', 'tier', 'alive', 'apps', 'installs', 'top_app', 'no_cold_email', 'needs_founder_enrichment', 'maps']); w.writeheader()
     for r in rows: w.writerow({k: r[k] for k in w.fieldnames})
 json.dump(rows, open(os.path.join(PRIV, 'outreach_list.json'), 'w'), default=str)
 print(f"vendors {len(rows)} | with email {sum(1 for r in rows if r['email'])} | wave1 {sum(1 for r in rows if r['wave']==1)} | no-tier/silver {sum(1 for r in rows if r['tier'] in ('','SILVER'))} | alive {sum(1 for r in rows if r['alive'])}")
