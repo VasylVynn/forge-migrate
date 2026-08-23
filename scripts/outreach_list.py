@@ -27,7 +27,7 @@ SKIP = {'Apps+'}
 NO_COLD = ('.de', '.at', '.pl')  # UWG/GDPR: no cold email, use LinkedIn/community
 KNOWN_DE = {'Seibert', 'Aura Apps (Seibert - appanvil)', 'Actonic', 'catworkx', 'resolution', 'CraftCoders', 'KontextWork', 'APTIS', 'Ease Solutions', 'MOEWE', 'UGUBI', 'Softlist', 'weweave'}
 for vendor, lst in byv.items():
-    if vendor in SKIP or any(k.lower() in (vendor or '').lower() for k in ('apps+', 'seibert')): continue
+    if any(k.lower() in (vendor or '').lower() for k in ('apps+', 'seibert', 'glintech', 'valiantys')): continue
     lst.sort(key=lambda x: -x['installs'])
     emails = [x['email'] for x in lst if x['email']]
     tier = next((x['tier'] for x in lst if x['tier']), None)
@@ -38,7 +38,7 @@ for vendor, lst in byv.items():
     email = emails[0] if emails else ''
     dom = email.split('@')[-1] if email else ''
     website = next((x['website'] for x in lst if x.get('website')), '') or ''
-    no_cold = any((dom.endswith(t) or (website and re.search(r'\.' + t.lstrip('.') + r'(/|$)', website))) for t in NO_COLD) or vendor in KNOWN_DE
+    no_cold = any((dom.endswith(t) or (website and re.search(r'\.' + t.lstrip('.') + r'(/|$)', website))) for t in NO_COLD) or any(k.lower() in (vendor or '').lower() for k in KNOWN_DE) or bool(re.search(r'\b(gmbh|sp\.? ?z ?o\.?o\.?|s\.r\.o\.|ug\b)', (vendor or ''), re.I))
     service_desk = dom.endswith('atlassian.net')
     connect_bound = all(True for x in lst)  # placeholder, refined below
     rows.append({'vendor': vendor, 'email': email, 'tier': tier or '', 'alive': alive, 'apps': len(lst), 'installs': inst, 'top_app': lst[0]['name'], 'no_cold_email': no_cold, 'needs_founder_enrichment': service_desk, 'maps': ' | '.join(x['map_url'] for x in lst[:4]), 'wave': '', '_apps': lst, '_score': score})
