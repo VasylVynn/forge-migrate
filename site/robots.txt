@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /forge-migrate/apps/
 Allow: /
 Sitemap: https://vasylvynn.github.io/forge-migrate/sitemap.xml

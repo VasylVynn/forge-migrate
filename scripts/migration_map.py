@@ -82,9 +82,9 @@ def classify(row):
     n = n_instances
     native_days = days + (2 if lc.get('installed') else 1)  # backend/state port baseline
     wrap_days = 1 if n <= 6 else 2
-    native_price = 4900 if n <= 3 else (9900 if n <= 8 else None)
+    native_price = 2900 if n <= 3 else (5900 if n <= 6 else (9900 if n <= 10 else None))
     return {'product': prod, 'modules': out, 'module_count': n, 'scope_count': len(scopes), 'scopes': scopes, 'base_host': base_host,
-            'wrap_days': f"{wrap_days} build day{'s' if wrap_days>1 else ''}, delivered within 3 business days", 'wrap_price': '$1,200' if n <= 8 else '$1,800',
+            'wrap_days': f"{wrap_days} build day{'s' if wrap_days>1 else ''}, delivered within 3 business days", 'wrap_price': '$900' if n <= 8 else '$1,400',
             'native_days': f"{int(round(native_days))}–{int(round(native_days*1.6))} engineering days", 'native_price': f"${native_price:,}" if native_price else f"~${int(round(native_days*1.3*700/100))*100:,} (quote)",
             'warnings': ' · '.join(warnings), 'none_count': none_count, 'partial_count': partial_count}
 
@@ -94,7 +94,7 @@ def md(row, m):
              f"Source: public Connect descriptor ({m['module_count']} module instances, scopes: {', '.join(m['scopes']) or '—'}{', backend: ' + m['base_host'] if m['base_host'] else ''})", '',
              '| Connect | Forge | Status | Note |', '|---|---|---|---|']
     for r in m['modules']: lines.append(f"| {r['connect']}{' ×'+str(r['count']) if r['count']>1 else ''} | {r['forge']} | {r['status']} | {r.get('note','')} |")
-    lines += ['', f"**Forge Wrap** (Connect-on-Forge, backend stays): {m['wrap_days']} — fixed {m['wrap_price']}", f"**Forge Native** (Runs on Atlassian eligible, 0% rev share): {m['native_days']} — {m['native_price']}"]
+    lines += ['', f"**Forge Wrap** (Connect-on-Forge, backend stays): {m['wrap_days']} — fixed {m['wrap_price']}, credited in full against Native", f"**Forge Native** (Runs on Atlassian eligible, 0% rev share): {m['native_days']} — {m['native_price']}"]
     if m['warnings']: lines += ['', f"⚠ {m['warnings']}"]
     return '\n'.join(lines)
 
