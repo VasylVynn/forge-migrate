@@ -1,0 +1,403 @@
+===== SLOT: dying-top (top paid CONNECT apps by installs; incumbents CANNOT ship fixes) =====
+
+## KARMA Page Builder for Confluence (Content Formatting) | Aura Apps (Seibert - appanvil) | Formatting, Intranet, Workflow, Approval, Table Filter, Analytics, Karma & Mantra | 3580 installs | CONNECT dying | 50 reviews
+  [1★ 2025-08-22] 
+  [2★ 2025-07-22] 
+  [2★ 2025-05-21] 
+  [1★ 2025-05-19] 
+  [5★mixed 2026-06-24] Adoption inside our organisation was genuinely remarkable to watch unfold. We rolled it out to a single team initially and within a few short months it had spread to half a dozen others through nothing but pure word of mouth. People see a good page, ask how on earth it was made, 
+
+## Google Drive & Docs for Confluence | Bilith (Google Workspace apps) | 2937 installs | CONNECT dying | 50 reviews
+  [1★ 2026-02-24] Extremely poor responsiveness. I have been ignored for weeks after making an inquiry.
+  [1★ 2025-06-24] No support. Stopped working and no response to support emails. Reinstalling didn't help.
+  [2★ 2025-06-06] embedded videos do not work for us. A bit buggy in general
+  [3★ 2024-10-04] 
+  [1★ 2023-08-10] We posted a support inquiry related to server EOL, but there was no response. It says that 24-hour support is available, but that doesn't seem to be the case at all.Working days are over 4 days.
+  [1★ 2022-11-02] Used to work with our shared drives, now it does not. No useful error messages, just that it does not work. Also this does not work with accounts with "Advanced Protection" enabled in Google Workspaces.
+  [1★ 2022-10-20] We are having an access issue "Users are not able to access GDrive files in Macro (Users are the file owners)" and submitted 2 tickets for this issue, vendor just don't reply to my tickets (one w/o any update since Sep 12, 2022; one submitted on Oct 11, really bad customer service... considering discontinue the subscription.
+  [3★ 2022-08-03] 
+  [4★mixed 2020-07-06] This plugin works well, but why it is mentioned as below and which plugin it is refering
+
+IMPORTANT: the add-on is not compatible with Google Drive Confluence add-on. Please disable it before installation of Google Drive Integration for Confluence.
+  [4★mixed 2020-01-07] Great support! We were using another plugin, but wanted to move to Bilith and the team helped us with the migration!
+  [4★mixed 2018-12-11] This is really working well for our team.  One person has a complication, because they aggressively containerize cookies using Firefox plugins, but I heard that a future version will have better support for this. 
+  [4★mixed 2017-12-15] Plugin adds several Confluence macros which mean you can embed file names, file lists (useful) or content from files (e.g. spreadsheets, PDFs) hosted in Google Drive.
+
+It's not possible to find embedded files via Confluence search, however. This would be a very useful feature.
+
+## Open API (Swagger) Integration | Toshihiro Sato | 2901 installs | CONNECT dying | 31 reviews
+  [3★ 2025-11-12] I'm currently using it for free. I've successfully integrated it with Bitbucket. However, when I run a test in Swagger, the request doesn't occur and the response is "Undocumented - TypeError: Load failed." I plan to pay for it once this issue is resolved. Can you help me?
+  [3★ 2023-06-29] Can it be used with Gitlab?
+  [3★ 2022-01-20] 
+  [2★ 2021-09-01] The swagger editor doesn't integrate with the swagger doc being edited. There needs to be an option on the widget that opens the swagger doc that has been embedded.
+  [2★ 2021-08-16] The app is great, if it would stay installed.   This is the third time i have installed the app - how can i manage the app to move from free trial to paid?
+  [1★ 2021-05-19] 
+  [2★ 2021-04-20] Can't use with bitbucket
+  [3★ 2019-10-08] I'm running the trial in our company and I like what I see so far.
+
+However, we would like to embed more than one instance of the macro in a page, but it does not work:  Only one macro renders and the others are blank.  Our use case is that we would like to show several snippets of Open API documentation in a developer's guide Confluence page.  
+
+I have commented on the existing support ticket:  https://github.com/toshihirosatojp/swagger-ui/issue
+
+## Magic Estimations - Async and Planning Poker sizing for Jira | Magic Apps | 1438 installs | CONNECT dying | 37 reviews
+  [2★ 2024-07-22] 
+  [1★ 2023-04-17] 
+  [1★ 2023-04-11] 
+  [3★ 2022-11-07] Nice app. Love the UI and simple settings. Just few hints:
+
+1. Something like "general" admin role would be useful, so there is always someone else than the moderator who can make changes and so on.
+2. We face quite often that we can´t see user´s avatars and names. It says only "loading".
+3. If we change story points manually after the session, the ticket doesn´t change the column, so after saving next session, the estimates changes back to origi
+  [3★ 2022-04-18] Would be flawless if it also supported asynchronous estimation (i.e., players can assign estimates for all stories individually on their own time, we meet to discuss those that have different estimates)
+  [1★ 2021-07-21] 
+  [4★mixed 2024-08-23] Direct and precise in what is proposed, and the best, fair price!!!
+  [4★mixed 2023-09-26] Magic Estimations is in my opinion the best tool on the market. Our team has been using it since the beta version and even though we experimented with some other estimation tools after the beta phase, we kept returning to Magic Estimations. With a Jira user base of over 100 but a
+  [4★mixed 2023-06-03] Magic Estimations is the best poker planning tool for Jira. Our development team have been using it since it was on beta. I'd tried some other tools but none had such a good quality. After the beta phase, it turned into a paid tool now (yes, developers don't live off charity). I 
+
+## Status Time Reports - Time in Status | Bloompeak | 1346 installs | CONNECT dying | 50 reviews
+  [3★ 2024-07-01] 
+  [3★ 2024-01-26] Overall: good addition to Jira.
+Things to improve:
+- Not very easy to start
+- Jira issue view extension is confusing
+
+I made a quick video review - https://www.youtube.com/watch?v=AzQPizRRwko
+  [1★ 2020-10-23] 
+  [4★mixed 2022-10-11] This is an Exceptional App...It covers a big deal of "what seems to be missing in JIRA".. It gives you the option to see Status Times in a more configurative and managable version.  
+  [4★mixed 2021-07-29] A really awesome app!! Provides really helpful information by default but can be customized to provide the precise informations that we need. I recommend!
+Special mention to the support that is really reactive!
+  [4★mixed 2021-07-28] I did a previous 3 star review which stated:
+"Just trialling this App, and so far I like what I see. What would be even better is the ability to
+1. Choose which status columns to show (Our use case we would not want to show some of the statuses e.g time in done.)
+2. The ability t
+  [4★mixed 2021-03-12] İt is amazing tool for Jira and Service Desk. İ can see every details about states and durations in the same page and can create reports which is very important and helpful for me. But, this is not the best part! You can get in touch with the developer in hours to fix a bug or ha
+
+## Excellentable Spreadsheet for Confluence | Addteq Inc | 1310 installs | CONNECT dying | 50 reviews
+  [2★ 2023-03-16] 
+  [3★ 2022-10-07] This app is very promising! Unlike others you offer you more or less the same functionalities, Excellentable strive by offering concurrent editing on the macro (excel file) itself! Believe it or not, there are still people who are working on excel files, and they need the ability to work collaboratively shared excel files on Confluence.
+  [3★ 2022-06-10] good app
+  [1★ 2022-05-12] Watch out !
+We installed this plugin and noticed Confluence was slower with it. 
+Did some more testing, every pages, even without any excellentable macro, double in size and in response time. We removed the plugin, support was not helping at all.
+
+Tests done 3 times on the same page, with the plugin enabled and disabled:
+
+Enabled
+DCOM load average: 5.5 seconds
+29MB of ressources
+
+Disabled
+DCOM load average: 2.7 seconds
+14MB of ressources
+  [3★ 2022-05-10] Good AddOn that brings easy to use excel functions into Confluence. Also the support reacts and delivers fast updates on addon errors.
+
+As the collaborate function is running on an external domain we cannot use it as we do not share our content to the public. This function must be able to run on the own server, not on an external.
+  [1★ 2022-03-16] Since migrating to cloud and changing the baseURL we had not been able to access our spreadsheets anymore (almost for 2 months now). We opened an issue almost 1.5 months ago, but there had been no fix yet: ADDTEQ-3169
+
+We are very disappointed as we cannot access valuable information anymore. Be aware that moving to cloud and changing the baseURL will restrict you from accessing your data.
+
+I cannot recommend using this plugin for server.
+  [2★ 2021-06-08] Hello we've upgraded confluence to 7.12.2 server edition, but Excellentable is incompatible, when will it be available on this latest version?
+  [3★ 2021-06-04] Hi we have upgrade the confluence into 7.12.2, but this apps incompatible, may i know when we can get it available on this latest version?
+  [4★mixed 2022-05-11] A few months ago would have given it 2 or 3 stars. But with new pivots and graphs, this is a full fledged spreadsheet in Confluence. 
+
+There are minor quirks in the app which can be a nuisance at times. But if this app could have a smooth integration with jira even those wouldn't
+
+## Google Drive & Docs for Jira | Bilith (Google Workspace apps) | 1259 installs | CONNECT dying | 35 reviews
+  [1★ 2025-12-15] The worst part is support, I have raised a ticket SUPPORT-3447, but no one is responding to it, and there is no ETA.
+  [1★ 2023-11-16] No support (no answer at all) for Server to cloud migration.
+  [2★ 2022-10-26] 
+  [3★ 2022-02-23] 
+  [3★ 2021-12-02] Google attachments cannot be migrated to Jira Cloud.
+We are using Google Drive / Docs for Jira in JIRA Server (v8.7.1).
+JIRA Cloud also has the same app as yours, but I found that the attachment links did not migrate when I migrated using the "Jira Cloud Migration Assistant".
+Please help me migrate my Google Drive attachments to Jira Cloud.
+If it is difficult at this point, I would like to be guided on how to get a list of issues using Google Dri
+  [3★ 2020-03-20] NA
+  [3★ 2019-05-16] Good program thanks.
+
+Create a folder with the issue number in Google Drive whenever a new issue occurs. Do not have permission to add folders in this app?
+  [3★ 2019-04-10] Nice add on. decent support. I'd appreciate adding some usage reports. Something like count of users that have authenticated, count if issues with google attachments by day, week, month... will do well.
+
+## Reminder for Jira (Follow-Ups, Deadlines & Notifications) | Teamlead | 1238 installs | CONNECT dying | 32 reviews
+  [1★ 2024-08-22] Slow and not working anymore!
+  [2★ 2021-11-08] I would expect minute-wise granularity for a paid reminder app and not half an hour interval.
+  [2★ 2019-10-07] Its a cool app, I do wish that it was in the side bar, or atleast below the description box.
+
+The 'Tonight' 'Tomorrow' hotkeys didn't seem to do anything, both just created a reminder 5m from now.
+  [1★ 2019-10-02] Could not access the docs as it required a confluence login to teamleads site. It worked for me as a JIRA admin but not for anyone else so was wondering if it needs permissions set.
+  [2★ 2017-05-18] Need to Improve, JIRA Web page stuck while create Reminder for issues
+Then need to refresh web page and get pop up window for entering Date and time
+  [4★mixed 2020-08-17] A simple, but very effective method to remind yourself or other users about a Jira task. We no longer have to keep a separate list of tasks to follow-up on.
+  [4★mixed 2018-12-18] I don't understand the bad reviews. The addon is easy to use, works well and causes no problems. But what would be nice if you have a dashboard gadget and can see which tickets you were reminded of recently, so you can see them directly there and not only in the emails.
+  [4★mixed 2017-10-25] I don't know why there are so many bad reviews. In the current testing environment for our small team this tool i simple and really great! Better because it's also free to use. I've received all the email notifications so far and therefore I would really recommend this tool.
+
+UPD
+
+## Visualize OpenAPI (Swagger) documentation | Dutch Beginners | 1216 installs | CONNECT dying | 21 reviews
+  [1★ 2023-05-14] Can not load http, asks for https, but we need to load via http.
+  [3★ 2022-10-24] I feel like it could have more customization options, such as:
+- Display URL to file (Yes/No)
+- Display Title (Yes/No)
+- Display API Version (Yes/No)
+- Display OpenAPI Version (Yes/No)
+- Display API Description (Yes/No)
+- Display Servers (Yes/No)
+- Display only the Tags: [<List of tag names>]
+- Display only the Paths: [<List of paths>]
+  [3★ 2021-10-05] It has security issue if I use personal access token to access Github private repo. The personal access token isn't protected in credential, you can view token in edit mode or use browser dev-tool. Do you have any suggestion ?
+  [1★ 2020-08-07] Not stable. Sometime it shows application error
+  [3★ 2020-03-27] Took me a little bit of time to figure out how to add this via confluence rest apis so I thought I'd share it on here incase anyone else is trying to do this:
+
+Send a request to:
+    PUT https://test.atlassian.net/wiki/rest/api/content/<PAGE_ID>?expand=body.storage
+
+    {
+    "type": "page",
+    "title": "page-name",
+    "version": {
+        "number": 19
+    },
+    "body": {
+        "storage": {
+            "value": "<ac:structured-macro ac:name=
+  [2★ 2019-05-18] Does not work in the new Confluence editor.
+
+## Slack Connector for Jira | WISOFT | 1196 installs | CONNECT dying | 50 reviews
+  [3★ 2025-03-06] Hello, Wisoft team.
+
+We have raised a ticket to your support office. Please check the ticket using the following URL.
+
+https://wisoft.zendesk.com/hc/en-us/requests/1492
+
+Best Regards,
+  [1★ 2024-06-03] 
+  [1★ 2024-05-30] 
+  [1★ 2023-05-22] 
+  [1★ 2023-03-02] 
+  [3★ 2021-02-21] Could you add the button "Connect with Slack" on the page "Slack Connector user settings". I think it is more user-friendly than going to the issue.
+It isn't easy for new users to find how to connect to Slack.
+  [3★ 2019-09-04] Wonderful tool can I know if a user acknowledge a ticket from slack will assign ticket to this user, and if I can remove hyperlinks from email and links before pushing it on slack
+
+  [3★ 2018-08-27] Very useful tool.. Liked it. Will purchase in future but not now. Thank you.
+  [4★mixed 2016-08-16] This is a very, very well implemented Slack integration. I was a little hesitant to trial this add-on at first, because I saw some of the very critical reviews of earlier versions. However, It seems that WISOFT are listening to their customers and addressing all the issues that h
+
+## Calendar for Jira (Timeline Roadmap, Planning & Events) | Teamlead | 1021 installs | CONNECT dying | 50 reviews
+  [1★ 2025-08-13] 
+  [1★ 2025-03-08] App didn't work. Didn't load any of our calendar events
+  [1★ 2025-03-02] 
+  [2★ 2024-02-08] The app does most of I what want from it hwoever there are few troubling points that limit its utility and functionality. If they are fixed, I'd be very happy with the app.
+
+Selection/filtering in JQL by "parent" seems to be limited by 1 level up, e.g. if filtering for parent Epic only Stories will be selected but not Sub-Tasks. This limits functionality, particularly is there are more then 3 hierarchy levels in the project. The app prompts to us
+  [2★ 2023-07-24] Sorry, but I can't get this to work on Cloud. I added a new calendar based on a project, and now every time I try to open it I get the error that the project name should have quotes. I can't open the calendar anymore or delete it. So if it's this buggy, I'm not going to use.
+  [2★ 2023-06-29] 
+  [1★ 2023-06-19] Created one project calendar. After that, consistent failures when trying to create additional calendars. Uninstalled and will try a different tool.
+  [1★ 2023-05-29] 
+
+## OneDrive & SharePoint for Confluence | Bilith (Office 365 apps) | 959 installs | CONNECT dying | 24 reviews
+  [1★ 2023-07-11] The app is really nice and was worth the money 100%! We used it everyday.
+
+But unfortunately it's not working anymore since 3 months. Support is really bad. I created two tickets and got a short mail after 2 month that they will checkt the issue. This was in may and since then they didn't reply at all!
+
+Such a pitty that a bad support destroys a good product.
+  [1★ 2023-06-30] Same issue here - support not even acknowledging our query and the app is completely broken. Will be approaching Atlassian for a refund.
+  [1★ 2023-06-07] Similar to what other people have experienced, the support for this application is non-existant. The current version even has critical issues making unable to render macros at all in our environments. 
+
+I reached out to support about this problem, demonstrating how it could be replicated and saying I was available for a call if need be and all I got was silence.
+  [1★ 2023-03-09] Same problem here, support seems to be non-existend, nobody answers tickets or emails. App is not working right now, but no way to escalate this with the developers, let alone get a solution.
+
+Rather disappointing.
+  [1★ 2023-02-15] Is this app even alive we do not get any response from support at all, we have sent multiple emails so far and have had no response at all, I don't recommend this app and I believe there is no support team actively supporting this at all.
+  [1★ 2022-08-24] I created two Support ticket : SUPPORT-2340 & SUPPORT-2356 a month back for app : OneDrive & Office 365 for Confluence  . But still getting no response from Support , can anyone please respond . This is very critical for us
+
+I am still wairting for : SUPPORT-2340 & SUPPORT-2356 a
+  [2★ 2022-08-17] Tried to open a couple of support tickets in the past, but never received any response other than the automated "we are on it". 
+
+Main problem I have with this app is that it will not allow using O365 links directly: it forces you to browse through the folders to find your file. The problem with this approach is that the link used when browsing through the files is different than the one Office 365 (or SharePoint) uses when sharing a file. 
+
+The 
+  [3★ 2022-03-02] 
+
+## Manage Users for Jira Cloud | Bloompeak Labs | 945 installs | CONNECT dying | 21 reviews
+  [2★ 2025-02-03] 
+  [3★ 2024-11-07] Really great app for managing users especially if you need to make large bulk/group changes.
+  [1★ 2024-09-23] Didn't work at all.  Kept getting an error.
+  [1★ 2024-06-03] 
+  [1★ 2024-05-02] It does not work... throws error messages...
+  [3★ 2024-02-28] 
+  [2★ 2023-12-28] 
+  [1★ 2023-03-21] Unfortunately, I couldn't get this to work. The app webpage just hung.
+  [4★mixed 2021-05-11] Awesome app but there are similar free apps 
+
+## Gantt Cloud | WISOFT | 937 installs | CONNECT dying | 50 reviews
+  [1★ 2022-07-08] Doesn't work :(
+  [1★ 2022-07-06] No Funciona
+  [2★ 2021-06-02] Not easy to work , I do not have lot off ours to configurate this chart so it is not usefull for me.
+  [3★ 2021-05-17] It's ok for simple planning, but it lacks coloring.
+  [2★ 2020-07-18] Does not allow display of dependencies across projects - a major shortcoming
+  [3★ 2020-01-31] Good tool!
+  [1★ 2019-02-28] 
+  [1★ 2019-01-29] 
+  [4★mixed 2018-05-03] I have tried other better rated Gantt charts for Jira... and lost weeks trying to perform the initial setup. I am sure once you manage to have them working they are amazing... but I could not make it. On the other hand, after 5 minutes, I had a cool Gantt chart with Gantt Cloud. 
+  [4★mixed 2017-04-04] so currently everything is working fine for us. So therefore I am not sure if issues from previous commentators has been patched / resolved or if we had just some luck. But for now we can assume stuff has been fixed
+  [4★mixed 2015-10-16] Simple, but very useful. Stable and faster than alternative solutions.
+There were some problems in encoding, but these problems were solved support during the day.
+
+## SVG out | Purde Software | 849 installs | CONNECT dying | 15 reviews
+  [1★ 2022-01-20] 
+  [2★ 2019-03-05] We installed to enable SVG support for PDF output. The app did not work when output. It turns the SVG into a PNG, losing all the quality and this can be achieved easily without the tool.
+  [1★ 2018-10-25] Not exactly user-friendly. Needs a simpler no-fuss interface, particularly for sizing the display of a SVG image on a confluence page. I'm going back to rasterised images for now.
+  [2★ 2016-12-10] Works great in the web UI, not so great in the iOS native app. Instead of displaying the diagram, the following text is displayed:
+
+Loading add-on SVG Out Cloud.
+Add-on SVG Out Cloud is not responding. Wait or cancel?
+Add-on SVG Out Cloud failed to load.
+
+Shame - it's laughable that Confluence doesn't natively support SVGs in this day and age.
+
+## Asana for Confluence | Bilith (Asana apps) | 836 installs | CONNECT dying | 15 reviews
+  [1★ 2023-07-13] Even for $1 this is a cash grab. Need to manually enter the url of the Asana task, cannot search or filter projects. You might as well just paste the link to Asana directly. This doesn't make anything easier.
+  [2★ 2023-05-05] Not really useful
+  [1★ 2023-01-12] It is much too basic to be of any use. You can't filter within a project. I cannot sort the items to start with. The macro to list all items in a project needs to be documented. This add-on has shown little progress for many years. One would think it's even borderline misleading to feature something like this basic as an add-on. It made me waste my valuable time.
+  [1★ 2022-09-01] The application doesn't provide much and comes with a price. Link previews are pretty basic nowadays and one can only wonder why this functionality is not native.
+  [2★ 2020-12-21] Nice idea. Simply too basic to really get real value out of it.
+  [2★ 2020-11-04] This just doesn't do enough to deliver value. We need to be able to present summaries of Asana things in Confluence which is pretty weak. But more importantly, I want to show Asana data in Confluence for users who do not have Asana access and/or licenses.
+  [2★ 2019-09-22] As other already wrote, it's nice but really basic.
+
+Compared to jira/confluence integration, I am keen on being able to edit columns shown of boards, filters, etc.
+
+
+  [2★ 2019-01-30] Easy to use but very basic. 
+
+Features that would be super helpful:
+* formatting (currently unable to distinguish between sections and tasks)
+* filter tasks for viewing (currently only displays view of full project board)
+* visibility of any customized fields 
+* status of the task and the flexiblity to select incomplete, complete or all tasks 
+
+## GoEdit - Simply edit attachments! | KontextWork | 820 installs | CONNECT dying | 50 reviews
+  [3★ 2025-08-20] 
+  [3★ 2024-02-29] 
+  [1★ 2023-06-16] 
+  [1★ 2022-03-03] 
+  [2★ 2021-05-12] We tried to use this on Windows and Linux ubuntu. Works fine on Windows and ubuntu 18.04 LTS. However, it does not seem to be working at all on ubuntu 20.04 LTS for us. Several engineers tried to use it on 20.04 and they couldn't make it work. The support is very slow. It takes long time for them to respond. If the problem is not resolved by the end of eval period we will most likely drop this since most of our engineers use Linux.
+  [3★ 2020-04-27] Useful add-on. Easy to use.
+  [1★ 2019-01-16] Installed through Altassian's Universal Plugin Manager for my Altassian cloud-hosted Confluence and it just doesn't work. It added a button for 'Edit Attachment', but clicking on it would return an unspecified error with a link to submit a support ticket. I have no intention to continue the trial so didn't follow up on that offer.
+  [4★mixed 2018-07-13] Great plugin and amazing support.
+
+It's not often a plugin directly addresses the EXACT problem I have, and fixes it -- but this one does. 
+I'm rolling out a new process which involves attaching an XLS to a jira task, and assigning it to people to update.
+
+Without this plugin, th
+
+## Backlog Prioritization for Jira (Pro) | Appbox.ai | 800 installs | CONNECT dying | 28 reviews
+  [3★ 2024-10-16] 
+  [3★ 2023-03-09] Really easy to set a score formula and adapt it on the fly through different views. A few improvements that could make it even greater : 
+- bug with some columns that cannot be removed once added (like Epic Link, though reseting columns works)
+- having JQL autocompletion / suggestions whem editing a view
+- having metrics available as field in Jira ecosystem, today only Score is available
+
+Thanks and keep the great job !
+  [3★ 2022-04-08] So far application seems great, only just started using it though. 
+
+One uncertainty is it appears to be based against the project, is there a way of bringing multiple project / product views together (if they are using the same Method?) Some teams need greater visibility than just within that one project / product. 
+
+Tried with Saved Filters or JQL but no results show up. 
+  [2★ 2022-03-18] I like the starting point and intent of this app.  Feedback:
+* Remove "Free" from the designation.  If it will be a paid app in Q2 and you will not grandfather in free users, then it is not a free app... it's a trial/beta test.
+* Biggest flaw is inability to calculate a metric from other metrics or utilize 2 scores in a method (there is a 1:1 relationship between score and method... meaning the score is the method).  As a result, there is no way 
+  [3★ 2022-02-10] It does what it's supposed to. One thing I highly recommend adding is the ability to specify a prioritization method by view. I can see people wanting to use one method to prioritize epics and a completely different method to prioritize bugs. Unfortunately all of the scores are erased when switching between methods, which makes this sort of unusable for us in all of the use cases I was hoping it could cover. It saves the metric values for each is
+  [3★ 2022-01-05] 
+  [2★ 2021-11-19] This app has potential, but it's very buggy in addition to missing some key functionality. Since it's free, we'll deal with it for now, but I do wish I could at least get a dev build and fix some of these bugs. 
+
+Below are my grievances starting from the most important on top.
+
+- Issue links do not work. (loads the app's domain instead of the JIRA domain - example 'https://backlog-prioritization.appbox.ai/browse/XX-XXXX' - Pretty critical IMO. 
+-
+  [3★ 2021-08-02] The app works fine.
+thinking that confidence is the rating you give to the ease you set.
+
+  [4★mixed 2021-06-30] Amazing app. Can only suggest this to everybody who wants to have transparent priorization within Jira itselfs. 
+But who are you? I will run into problems when we do not know who (company / person) is behind Appbox.ai . For legal and risk reasons its possible to run into problems
+  [4★mixed 2021-03-22] I really like this app!
+I suggest to make it faster (the backlog list) but the way of working is awesome
+  [4★mixed 2021-03-01] An excellent project management tool, super intuitive and works out of the box. it makes prioritizing work for teams extremely easy. 
+The support team was quick to respond to my queries. 
+I was expecting an export feature from the grid but seems it’s missing, would love to see th
+
+## Versions Hierarchy | Broken Build Labs | 768 installs | CONNECT dying | 4 reviews
+  [2★ 2016-07-27] Interresting add-on, but why a issue found and fix in under nest versions is visible in the upper-nest version of the tree ? A bug ?
+I would an extension where a found in version bug is automatically propagated to under nest version if issue is not fix. What do you think ?
+
+## Scrumpy Planning Poker for Jira | AELBOX | 751 installs | CONNECT dying | 22 reviews
+  [3★ 2025-01-26] I do not like that user has to input the ticket key and number instead of pasting in the URL. I do not like that I cannot add epics. I do not like that I cannot uninstall it immediately after testing it and cancelling. Documentation says I can uninstall after cancelling free trial, but it's been over an hour and I cannot. Since we don't owe money, I should be able to immediately revoke and remove the program.
+  [3★ 2024-05-07] 
+  [1★ 2021-03-26] App sometimes refuses to load proper JQL queries, slow response time when estimating, all boards will have this enabled as default once you enable this app (it doesn't allow you to choose the boards you want it for).
+
+The convenience of the app helping you to add in the estimates are okay, but not worth being a paid app. There are various other apps / sites out there that can do the same and respond faster, albeit you need to export the XML, whic
+  [3★ 2020-12-10] A bit clunky but useful.  Not quite good enough to pay for though.  Sorry.
+  [3★ 2020-09-08] When the voting is done on a jira issue will the story point field get populated with the vote? Tried it today, just saw comments with the vote updates. Was expecting the story points filed to be populated
+  [2★ 2020-07-16] Easy to install but haven't been able to get voted story points to appear in the "Story Points" field of each ticket. I've designated it as the Jira estimate field under Integration Settings, but no luck. I get a comment added to the ticket but that's it.
+
+Any help would be appreciated, otherwise can't use.
+  [3★ 2020-03-23] Is there a way to pull stories into a room from a sprint using a JQL that keeps the order of the stories? For example If our sprint is prioritized as Story 5,2,3,1 in our backlog view and I pull in the sprint to a room, Scrumpy re-orders them numerically 1,2,3,4,5
+  [2★ 2019-10-21] I just installed and looks good but I can't see the list of stories. I look at the permission and seems to be all fine, but I did not find any documentation related to the permissions
+  [4★mixed 2019-01-10] Totally easy to use. Works well for both remote and local teams.
+
+The one thing I wish it had was the ability to send stories to the refinement list from the backlog or detail views, but I still don't hesitate to recommend this.
+
+## Outlook Connector for Jira | gesesoft | 742 installs | CONNECT dying | 27 reviews
+  [2★ 2023-08-30] No mac support.
+  [3★ 2021-07-23] dfgsd
+  [1★ 2020-03-26] 
+  [3★ 2019-07-12] Works as promised, but has a few drawbacks that came up during our evaluation:
+- Shortcuts like CTRL+C & CTRL+V don't seem to work?
+- When adding an email as comment the whole history is also copied, there is no possiblity to always only use the latest email text.
+- You can't transition an issue from Outlook.
+- While you can open the recognized JIRA issue after creating an issue or adding a comment you can't open the ticket directly from Outlook.
+  [3★ 2018-06-27] 
+  [1★ 2018-01-07] Cannot install local Outlook add-on because of some issue regarding primary folder set-up.
+I have stopped the trial, uninstalled the add-ons. Not going to jump through hoops in order to get billed for this.
+  [3★ 2017-02-22] Will this add-on suppors Outlook on iOS of Apple? 
+  [3★ 2016-09-28] Hello, 
+
+Is it possible, also to "sync" the Out of Office Assistant into JIRA, so users in JIRA are "marked" as out of office.
+We are looking into such a feature, to have to Out Office information from Exchange/Outlook into JIRA.
+
+Regards,
+Oli
+  [4★mixed 2020-07-31] Nice Add-on and fast and friendly support!
+We had some questions regarding the last update and our mass-deployment for the outlook-addon, but got help immediatly :)
+  [4★mixed 2020-07-24] Perfectly functioning add-on our support teams use for creating and adding comments from mails sent by our customers.
+
+There was an issue with image attaching to comments, but provider solved the issue very expressly.
+
+  [4★mixed 2015-09-11] Great plugin but can't find the JEMH integration client download. 
+
+## Boards of Trello in Confluence | Apps+ | 702 installs | CONNECT dying | 6 reviews
+  [1★ 2025-01-20] 
+  [1★ 2024-04-05] 
+  [3★ 2024-01-22] 
+  [1★ 2021-10-14] It does not work! After several days of trying it does not work. Several tutorials and the end is Page not found
+
+## Email&Tasks for Jira Cloud and Gmail Integration | SaaSJet Studios | 700 installs | CONNECT dying | 8 reviews
+  [2★ 2025-02-10] Super nice in principle. In practice, maybe because of all the plumbing behind the scene, it is quite slow to use (I have 25gbps fiber connection symmetrical with google ping 0.2ms...). This makes the interest somehow limited.
+  [1★ 2023-02-28] Once my trial expired, instead of it converting to a full account, the app just stopped working. I've uninstalled and reinstalled multiple times, it still wouldn't allow me to create new issues from Gmail. I've contacted support and they told me they couldn't replicate the issue. It was really good when it worked, unfortunately, I have to find an alternative now that it's stopped working.
+
+## Sprint Capacity Planning & Tracking | Add-On Experts Center | 682 installs | CONNECT dying | 28 reviews
+  [3★ 2025-04-15] 
+  [2★ 2024-09-30] Dears, 
+
+Kindly note that this add-on is not working now in Google Chrome. Could you advise how it can be solved?
+  [1★ 2023-12-21] 
+  [1★ 2023-11-16] Teste finalizado.
+  [1★ 2023-01-25] 
+  [2★ 2022-11-22] 
+  [1★ 2022-09-21] When I first looked at the demo and documentation, I was so exited and I thought this is an awesome tool. We have proceeded with the purchase and installed it for our big organization. When I start using it I have realized that how worst this plugin. Please do not waste your time on purchasing this and it will not be useful at all. You send email or create support ticket, no one will respond back at all. This plugin will not update the hours prop
+  [1★ 2022-03-08] Could not get this app configured. Kept getting errors when trying to remove teams, although I had no data set up. Didn't work!!!!
+  [4★mixed 2017-10-08] Hi, 
+Thanks for delivering this plugin. When we started working with Jira, we were disappointed Jira didn't have this feature. 
+We are not a pure agile team and we need resource management, but all other options are detached from the agile process.
+
+## Swagger UI for Confluence | Tech Labs | 665 installs | CONNECT dying | 8 reviews
+  [1★ 2025-04-28] Encontre otra aplicación que hace lo mismo y con un costo mas bajo

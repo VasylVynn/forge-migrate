@@ -1,0 +1,212 @@
+
+## [g2-jsonv] External Data for Jira Fields (Connect REST APIs, SQL, JSON) | codefortynine | 1726 inst | forge | rel 2026-08-21 | pricing(10/100/500u): [(10, 0.0), (100, 1050.0), (500, 3485.0)]
+  [1★ 2025-07-18] 
+  [4★ 2025-05-13] This app has been extremely useful for connecting to external applications. In addition to the great functionality, the support team is very responsive and has been able to quickly deliver both bug fixes and minor feature requests.  
+  [1★ 2024-08-23] 
+  [4★ 2023-03-26] We've tried a handful of apps to be able to display external and internal data from different sources but External Data for Jira Fields
+ is, by far, the best one out there. It's packed with features that other do not have and is extremely versatile when it comes to data sources, ways to authenticate to fetch them and converting/merging them. You can pretty much do everything with it but the absolu
+  [4★ 2022-11-17] This app is useful for the limited amount my team utilizes it at the moment, but this review is to focus more on the support response I received from the codefortynine team.
+
+I was having trouble setting up a Context filter in the Field Configuration for one of our data sources. I was trying to use string manipulations as I would in JQL to isolate part of a field, which is not possible with JsonPa
+  [3★ 2022-07-19] It is a plugin that helps a lot to make integrations with external bases in projects in Jira.
+
+However, for large instances it can be a problem in the long run as it doesn't support multiple datasources. It is necessary to keep asking support to increase this number and it is not always possible.
+
+It would be interesting if this issue was resolved to have a more robust solution for serving large J
+  [4★ 2022-07-07] I really enjoy the feature. For me the pagination for API calls was missing, so I wrote the support of codefortynine. Me was told, that this feature is currently in development and they showed me a workaround that was sufficient.
+Just a few month later codefortynine got back to me to notify me that the feature is ready for use. Furthermore they showed me how to implement this. Awesome support. 5 s
+  [4★ 2022-06-17] The plug-in works just as intended. The process of configuring fields is easy and the documentation is great. But the best thing was the customer service support, they help and keep close contact to the requests!
+  [4★ 2022-02-15] Does what it's supposed to! Douglas was very helpful and responsive which made all the difference in us getting to a useful solution. We're just now starting to use this in a production environment, so we'll keep an eye on performance, but so far, so good!
+  [4★ 2022-02-02] Nice and useful, although sometimes slow.
+  [4★ 2020-06-08] This plugin is a life-saver and a tweakers dream. We've been trying to get data from outside of Jira into our cloud instance in several ways, but External Data for Jira Fields actually delivers and in spades. Support is awesome with super quick turnaround and they even implemented a feature for us that became available THE NEXT DAY. Give this a try. You will get very inspired once you know the pos
+  [4★ 2020-03-30] Hello,
+
+I plan to use External Data for Jira Fields (Jira Service Desk Cloud version) to implement interdependent dynamic fields, that also depend on the groups the user belongs to, in the Customer Portal while the Customer fills out the form for request/issue creation. So far my tests are working fine, although I have yet to test this in production. I could not find any other way to do this but b
+
+## [g2-qna] Questions for Confluence | Atlassian | 3788 inst | forge | rel 2026-08-03 | pricing(10/100/500u): [(10, 10.0), (10, 100.0), (100, 2500.0), (500, 6500.0)]
+  [1★ 2026-03-18] Added the app. Tried to add new questions (finding where to ask the questions was quiete challenging in the first place). Asked question are nowhere visible in confluence...
+  [1★ 2026-02-25] Does not work at all!
+  [1★ 2025-12-04] This application is very limited:
+(1) You cannot specifically restrict who can submit questions Vs. who answers them. (2) You cannot restrict labels or who creates them. (3) The search functionality searches for titles ONLY, not what's in the description. (4) It does not have a selective FAQ/custom sort functionality (just grouping by most votes, unanswered, or recent). (5) Because this app applie
+  [1★ 2025-01-24] No import or export function, and no availability of a REST API when used with Atlassian Cloud.
+  [1★ 2024-03-15] Unauthorized action
+You're not allowed to perform this action. Ask your admin to grant you permission.
+
+I am the Admin!!!  IT basically doesn't work.
+  [3★ 2023-06-01] 
+  [2★ 2022-11-08] The search is awful, making it difficult for people to find the answers they are looking for.
+  [3★ 2021-06-13] 
+  [1★ 2021-02-12] 
+  [1★ 2020-08-08] 
+  [1★ 2020-02-16] Unfortunately, without a proper macro that let us link questions to pages, I don't really see the value of this app.
+  [1★ 2019-09-30] A second rate StackOverflow clone with limited features and a development team that seem to ignore every feature request. Many bugs too, that are years old and that nobody cares about.
+  [1★ 2019-04-03] Its fine
+  [1★ 2019-03-12] Searching does not find matches in answers or question body, only title. No way to merge duplicates.  This is a glorified voting of wiki pages.
+  [1★ 2019-02-07] 
+  [1★ 2018-12-14] really i have to pay another $2.50 for each user on top of my normal cost?
+  [2★ 2018-11-22] Need ability to use Better Code Macro and other editor plugins.
+  [1★ 2018-10-03] 1. No integration with pages beyond a list of questions that once clicked, gives no way back to the page.
+2. No way to create an "Add new Question" button other than a hyperlink that again takes the user away from the page.
+3. No way to use the "Add new Question" URL to pre-populate a topic.
+4. No way to link to Confluence content other than copying & pasting URLs
+
+Not worth the money. In fact, no
+  [1★ 2018-08-16] 
+  [3★ 2018-03-14] Questions works well, but not sure how to get the person asking the question to go back in and accept the answer which they think is correct.  Is Atlassian Community using Questions?  Atlassian Community has a really nice notification system that reminds the person asking a question to go back and accept an answer.  Is that functionality through a different plugin?
+  [1★ 2018-01-12] 
+  [2★ 2018-01-06] Search in other languages is not supported
+  [3★ 2018-01-03] 
+  [2★ 2017-08-10] - There is no way to restrict the questions being answered by anybody
+- There is an error when trying to setting up permissions
+- There is no way to have translated versions for the questions
+- This is not what I thought it was. 
+
+It would be great to have a Frequently Asked Questions knowledge base, but it is not possible with this tool.
+  [1★ 2017-08-02] 
+  [3★ 2017-05-30] 
+  [3★ 2017-05-04] GREAT but i have one bug: "Errors found in the contents of the question.". Often happens when I have images on my question / answer (no spaces or weird chars on filenames). JIRA v7.2.6, local instance.
+  [1★ 2017-03-14] The Questions lacks of basic customizations: even impossible to put some links on pages with some help, no access rights (e.g. moderators which would be allowed to mark questions as answered in every category), non disablable rank system (we already have StackOverflow why ranking is needed by default on internal q&s site?!), statistics is simple terrible (read "useless shit"), editing is terrible 
+  [2★ 2017-02-06] Buggy AF and extremely overpriced (esp given that it doesn't completely work)
+  [1★ 2016-11-19] 
+  [2★ 2016-09-09] 
+  [2★ 2016-07-11] Needs some updaiting.
+  [2★ 2016-05-25] 
+  [3★ 2016-04-24] 
+  [1★ 2016-04-06] 
+  [1★ 2016-03-24] after evaluating Questions ... 
+
+- the price is too high in relation to the given features and options.
+- I would like to have the option to disable the rating system for persons (including points in user profiles (worker's council requirement)
+- I would like the to have the option to restrict questions per space and usergroups - I don't want to have qustions available global in confluence . The i
+  [2★ 2016-03-18] Been using it - kinda limited.  I wish it can the ability to export Q/A based upon tags; unless a better plugin exists for that - basically need something to manage Q/A for RFPs.
+  [3★ 2016-03-13] 
+  [3★ 2015-11-27] 
+  [2★ 2015-11-22] Unfortunately insufficient development activity occurring for this add-on does not justify us purchasing it. We have been trialling for six months and have been disappointed that it still contains very basic customisation options (ie. for permissions, UI options, etc.). We have had problems with users not understanding that they should be upvoting/dopwnvoting and marking best answers, which negate
+  [2★ 2015-11-13] Upgraded from 2.3.4 to the latest (2.4.2) and we could no longer delete our own topics. Reverted back and works fine now. Other than that, the product is a "nice to have" rather than essential.
+  [2★ 2015-09-27] 
+  [1★ 2015-07-29] 
+  [3★ 2015-02-20] 
+  [2★ 2014-11-13] Need to be able to have questions per project that only project members can see and answer.  
+  [2★ 2014-09-03] It looks promising, but you can't search the answers (in which the knowlegde is). Without that its nearly useless. If I knew this in advance - I wouldn't have tested it in the first place.
+
+See https://jira.atlassian.com/browse/CQ-30
+  [1★ 2014-08-13] needs work.
+  [1★ 2014-07-23] Doesn't work at all; "Get started" link takes me to /wiki/questions, which goes to a "Page Not Found" page.
+  [1★ 2014-07-12] buggy...
+  [2★ 2014-06-15] Atlassian have released this as version 1.0, but it still needs a LOT of work to achieve parity with OSQA or other similar free and open source products. Very poor admin tools and no tools for customization at all. Lots of promise, though. Hopefully they'll start addressing the backlog of ~200 issues, and hopefully most of those will be related to "real" issues and not just Atlassian dogfooding.
+  [1★ 2014-06-09] Now the add-on fails to enable. Very frustrating and no feedback whatsoever about what the problem is.
+  [4★ 2014-02-17] It took a while but it finally got here, hoorah! This was a function I have been hanging out for since almost Confluence first began. Sure it still needs some work but it is massive plus in the Confluence toolbox already. Additional macros to be more flexible in how users interface with this module would be useful. But the core of it is brilliant and exactly what is needed in devolving centralised
+  [2★ 2013-12-25] We've evaluated this in deep and it is flexible to be used and easy to understand. However, it doesn't include proper Email notification when a new forum topic is created to the watching users. Notification (about topics and comments) is essential to a Forum product and must work without having to license any other software.
+  [3★ 2013-10-13] Promising plugin. Will be interesting how it develops and how it will compare feature wise to stackoverflow. I feel ultimately its success will though be decided by the price.
+
+Are there any plans to add voting to the questions themselves and not just the answers?
+
+## [g2-cql] CQL Search | StreamlineSoft | 1012 inst | CONNECT | rel 2024-07-11 | pricing(10/100/500u): [(10, 0.0), (100, 50.0), (500, 185.0)]
+
+## [g2-svg] SVG out | Purde Software | 849 inst | CONNECT | rel 2023-02-26 | pricing(10/100/500u): [(10, 0.0), (100, 200.0), (500, 675.0)]
+  [1★ 2022-01-20] 
+  [2★ 2019-03-05] We installed to enable SVG support for PDF output. The app did not work when output. It turns the SVG into a PNG, losing all the quality and this can be achieved easily without the tool.
+  [1★ 2018-10-25] Not exactly user-friendly. Needs a simpler no-fuss interface, particularly for sizing the display of a SVG image on a confluence page. I'm going back to rasterised images for now.
+  [2★ 2016-12-10] Works great in the web UI, not so great in the iOS native app. Instead of displaying the diagram, the following text is displayed:
+
+Loading add-on SVG Out Cloud.
+Add-on SVG Out Cloud is not responding. Wait or cancel?
+Add-on SVG Out Cloud failed to load.
+
+Shame - it's laughable that Confluence doesn't natively support SVGs in this day and age.
+
+## [g2-qna] Questions & Answers | EliteSoft | 655 inst | CONNECT | rel 2024-12-10 | pricing(10/100/500u): [(10, 3.0), (10, 30.0), (100, 400.0), (500, 1350.0)]
+  [1★ 2025-11-27] Working since 2007 in Atlassian World, this plugin is valuable. The support is the opposite. We opened a support tickets multiple months before with higher urgency. The service team until today hasn't answered our ticket nor given us any indication what the reason for an existing bug is. For the next license renewal, we tend to not consider it anymore.
+  [2★ 2023-12-20] Cloud version, no email notifications sent for asked question, nor answer given.
+  [2★ 2023-09-13] After 2 years of the ticket opened, still waiting for the French translated file to be added to the plugin.
+https://elitesoftware.atlassian.net/servicedesk/customer/portal/1/QA-128
+  [2★ 2022-11-29] With about 2 releases per year, they don't really put a lot of work into the plugin.
+Even gave a French translation (properties file ready to add) for the plugin a year ago and no answer or work done about it (along with a few other bugs without answer either).
+Does the job, but they're maybe better options out there with people working to improve more.
+Just sayin'.
+  [1★ 2022-10-20] The Plugin may look good at first but we were terribly wrong. After we have rolled it out in our company we only received complaints and after a few months the acceptance is at a low point because of the disastrous search the plugin offers. The search seems to be completely random - there is no info on how it is working. If you search for the exact name of a question, other questions pop up first!
+  [2★ 2022-05-05] No audit trails
+Tags -  unable to edit, duplicate tags between spaces
+Lag in the application
+  [3★ 2021-06-02] In general good.
+Support reacts whenever a non-optimal review is posted here.
+
+New issue: When applying code-formatting in questions no hard line breaks will be introduced so long lines of code cross the text border on the right. That is not acceptable and should be fixed.
+  [2★ 2021-05-28] In principle a good add-on.
+
+Unfortunately, the add-on causes extreme performance problems on our environment. The quick search takes 12 seconds depending on the user. Despite updates and many back and forth with EliteSoft support no result. 
+
+If there is no solution, we will probably uninstall the add on.
+  [2★ 2021-03-22] Creating and grouping questions is easy. Appreciate the ability to create tag groups for questions.
+
+The biggest drawback to this plugin is that is that one can't display *answers* along with the questions; the macro only offers the ability to display the question title and summary fields. The inability to use the macro to generate a list of questions and their answers for use in a Confluence page
+  [1★ 2021-03-04] Terrible customer service - I would open a ticket with them and check it out for yourself before you get this app.  Hard Pass
+  [3★ 2020-09-22] can you release a doc for rest api ?
+
+## [g2-jsonv] JSON Viewer & Editor | EliteSoft | 456 inst | CONNECT | rel 2023-12-12 | pricing(10/100/500u): [(10, 1.0), (10, 10.0), (100, 150.0), (500, 375.0)]
+
+## [g2-restore] Restore Deleted Issues | Bloompeak Labs | 934 inst | CONNECT | rel 2024-02-18 | pricing(10/100/500u): [(10, 3.0), (10, 30.0), (100, 300.0), (500, 1300.0)]
+  [2★ 2025-03-24] 
+
+## [g2-restore] Who Deleted My Issues? (Work item restorer & back up) | Sevidev | 237 inst | forge | rel 2025-06-05 | pricing(10/100/500u): [(10, 0.0), (100, 280.0), (500, 1240.0)]
+  [3★ 2022-05-18] HI,
+Would it work if installed once the issues were already deleted?
+
+## [g2-qna] Smart Questions and Answers | Purde Software | 272 inst | forge | rel 2026-08-03 | pricing(10/100/500u): [(10, 0.0), (100, 440.0), (500, 1440.0)]
+  [3★ 2025-04-22] The implementation of the app in Confluence Cloud is good - some features would be desirable. For example, that an Org Admin can mark questions as âAccepted solutionâ, and not just the questioner, as it happens that users leave the company. 
+
+Sometimes the app is slow or has an outage (1-2 times a month). 
+
+The support from Purde Software is good and fast. Requests are usually processed very q
+  [2★ 2022-10-12] I was hoping for this to be a bit more robust. I was specifically looking for more than just a generic question and instead possibly a rich text editor that allowed links and images.
+  [1★ 2021-06-13] 
+  [4★ 2018-06-18] We reviewed the 3 plugins and selected Simple QA because besides being the least expensive, it was also the one that was the most configurable and also the most actively being developed.   After we installed it, users noticed something that was not optimal, so I contacted the developer, and 3 days later he released a new feature that fully answered our need.   
+Highly recommended!!!
+  [4★ 2017-09-21] Very simple and easy to configure and use free add-on. No need to buy expensive Q&A add-ons if this is not the main purpose of your Confluence!
+Great communication with the developer!
+
+## [g2-cql] Reports, Charts, Templates,CQL & Export for Confluence | Clovity | 172 inst | forge | rel 2026-06-08 | pricing(10/100/500u): [(10, 0.0), (100, 650.0), (500, 1700.0)]
+
+## [g2-qna] FAQ for Confluence (Frequently Asked Questions & Answers) | VECTORS | 310 inst | forge | rel 2026-07-15 | pricing(10/100/500u): [(10, 0.0), (100, 500.0), (500, 1850.0)]
+  [1★ 2024-05-14] 
+  [1★ 2024-02-14] Is it possible to change the language
+  [1★ 2023-05-12] 
+  [1★ 2023-03-08] 
+  [2★ 2023-01-12] Really bad! Not intituive, and Fails to refresh.
+  [1★ 2021-12-07] No support responses through their ticket system. Mandatory fields are not validated (f.e. Owner) - extension will brick really quick if not following a click-by-click instruction. Waste of money, too bad.
+  [3★ 2020-03-23] Overall, it's very complete and the usability is good but I noticed something.
+
+When I insert FAQquestions inside FAQtopic, editing these questions becomes disabled. Is this a bug?
+  [3★ 2015-05-12] Is possible enable feedback for anonymous users?
+  [1★ 2015-01-19] Terrible. Randomly loses data, support from developer is non-existent. This plugin would be great if it didn't eat weeks of work at a time with no chance of retrieval. Garbage.
+
+## [g2-qna] Community Questions for Confluence | Firnity | 147 inst | forge | rel 2026-08-21 | pricing(10/100/500u): [(10, 0.0), (100, 400.0), (500, 1475.0)]
+
+## [g2-restore] Track Deleted Issues | Bloompeak Labs | 185 inst | CONNECT | rel 2024-02-18 | pricing(10/100/500u): [(10, 2.0), (10, 20.0), (100, 200.0), (500, 475.0)]
+
+## [g2-jsonv] Monday.com Integration & JSON Viewer for Confluence | Toshihiro Sato | 82 inst | CONNECT | rel 2023-12-17 | pricing(10/100/500u): [(10, 2.0), (10, 20.0), (100, 200.0), (500, 600.0)]
+
+## [g2-jsonv] view26 JSON Viewer Macro for Confluence | view26 GmbH | 147 inst | forge | rel 2025-08-13 | pricing(10/100/500u): [(10, 0.0), (100, 100.0), (500, 500.0)]
+  [1★ 2024-02-19] not a very good parser. I would appreciate a JSON parser that is closer as functionality to JSON parser in VSCode.
+  [1★ 2023-11-12] 
+  [1★ 2019-01-02] 
+
+## [g2-restore] Deleted Issues Log | Eisonesoft | 21 inst | forge | rel 2026-03-19 | pricing(10/100/500u): [(10, 0.0), (100, 1000.0), (500, 3025.0)]
+
+## [g2-restore] Restorify – Restore Deleted Issues for Jira | Terano Apps | 111 inst | forge | rel 2026-03-11 | pricing(10/100/500u): [(10, 0.0), (100, 450.0), (500, 1820.0)]
+
+## [g2-restore] Deleted Issues - Issue Recovery | Athena IT Solutions | 14 inst | forge | rel 2026-07-11 | pricing(10/100/500u): [(10, 2.0), (10, 20.0), (100, 500.0), (500, 2175.0)]
+
+## [g2-jsonv] JSON Viewer+ for Confluence | Apps+ | 39 inst | CONNECT | rel 2026-03-24 | pricing(10/100/500u): [(10, 0.0), (100, 140.0), (500, 585.0)]
+
+## [g2-jsonv] Export Pro for Confluence (Markdown, JSON, XML, HTML) | Softgrown | 89 inst | forge | rel 2026-02-12 | pricing(10/100/500u): HTTP Error 404: Not Found
+
+## [g2-jsonv] Data Viewer for XML and JSON | Grovr | 13 inst | CONNECT | rel 2023-01-26 | pricing(10/100/500u): [(10, 5.0), (10, 50.0), (100, 600.0), (500, 1600.0)]
+  [1★ 2025-03-05] 
+  [4★ 2023-10-16] Well-done app! So far, the only one I could find that provides expand / collapse capability. Matt was also super-responsive and helpful with issues I encountered while learning how to use it. Line numbering would be a neat little addition, but that's for another release.  ;)  Cheers & thanks again!
+
+## [g2-jsonv] JSON Viewer+ for Jira | Apps+ | 25 inst | CONNECT | rel 2026-03-24 | pricing(10/100/500u): [(10, 0.0), (100, 390.0), (500, 1585.0)]
+
+## [g2-svg] PlantUML SVG for Confluence | Grovr | 23 inst | CONNECT | rel 2021-12-31 | pricing(10/100/500u): [(10, 3.0), (10, 30.0), (100, 300.0), (500, 1000.0)]
+
+## [g2-jsonv] Live Tables from CSV & JSON for Confluence | Stiltsoft Europe OÜ | 27 inst | forge | rel 2026-08-13 | pricing(10/100/500u): HTTP Error 404: Not Found
